@@ -1,0 +1,19 @@
+---
+- hosts: pudu-smtp 
+  tasks:
+  - name: install package ipset [RedHat]
+    yum: name=ipset state=present
+    when: "ansible_os_family == 'RedHat'"
+
+  - name: copy iptables.mgmt.conf to servers
+    action: copy src=ipset 
+      dest=/etc/sysconfig/ipset owner=root group=root mode=0644
+    notify:
+      - reload ipset mgmt
+
+  - name: take care of ipset service
+    service: name=ipset enabled=yes state=started
+
+  handlers:
+    - name: reload ipset mgmt
+      action: shell /usr/sbin/ipset restore -! < /etc/sysconfig/ipset
