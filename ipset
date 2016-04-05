@@ -82,8 +82,7 @@ add blacknets 184.69.61.154
 add blacknets 185.130.5.150
 add blacknets 185.130.5.159
 add blacknets 185.130.5.240
-add blacknets 185.140.109.130
-add blacknets 185.140.109.22
+add blacknets 185.140.109.0/24
 add blacknets 185.40.4.30
 add blacknets 185.63.252.222
 add blacknets 186.215.174.250
@@ -214,6 +213,7 @@ add blacknets 23.24.218.250
 add blacknets 24.140.148.140
 add blacknets 24.213.217.114
 add blacknets 24.213.96.31
+add blacknets 24.227.238.86
 add blacknets 27.252.134.129
 add blacknets 31.168.198.79
 add blacknets 37.153.244.21
