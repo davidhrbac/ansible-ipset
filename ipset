@@ -240,6 +240,7 @@ add blacknets 45.64.13.75
 add blacknets 46.10.210.15
 add blacknets 46.151.52.0/24
 add blacknets 46.171.143.94
+add blacknets 46.172.66.124
 add blacknets 46.24.103.4
 add blacknets 46.249.158.142
 add blacknets 46.29.252.110
