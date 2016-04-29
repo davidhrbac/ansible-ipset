@@ -2,6 +2,7 @@ flush
 create blacknets hash:net family inet hashsize 4096 maxelem 1048576 
 add blacknets 101.180.177.45
 add blacknets 101.78.154.74
+add blacknets 103.19.233.6
 add blacknets 103.242.188.9
 add blacknets 103.43.94.0/24
 add blacknets 104.233.114.153
