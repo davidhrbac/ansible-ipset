@@ -28,6 +28,7 @@ add blacknets 105.237.23.214
 add blacknets 106.249.236.250
 add blacknets 107.158.255.194
 add blacknets 107.170.27.110
+add blacknets 107.172.129.13
 add blacknets 107.182.20.202
 add blacknets 107.182.20.208
 add blacknets 107.182.20.215
@@ -437,6 +438,7 @@ add blacknets 66.203.162.239
 add blacknets 66.225.139.105
 add blacknets 66.23.232.227
 add blacknets 67.102.163.44
+add blacknets 67.224.84.250
 add blacknets 67.231.22.126
 add blacknets 67.79.217.54
 add blacknets 68.14.227.228
