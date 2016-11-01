@@ -199,6 +199,7 @@ add blacknets 190.165.123.89
 add blacknets 190.255.186.126
 add blacknets 190.5.230.178
 add blacknets 191.101.31.105
+add blacknets 191.101.31.122
 add blacknets 191.101.31.3
 add blacknets 191.191.110.170
 add blacknets 191.8.50.200
