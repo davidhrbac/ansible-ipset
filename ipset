@@ -258,6 +258,7 @@ add blacknets 199.115.228.60
 add blacknets 199.168.100.221
 add blacknets 199.168.142.14
 add blacknets 199.168.142.23
+add blacknets 199.168.142.245
 add blacknets 199.168.142.26
 add blacknets 199.168.142.80
 add blacknets 199.180.115.37
