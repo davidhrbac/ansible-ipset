@@ -112,6 +112,7 @@ add blacknets 157.122.148.248
 add blacknets 157.122.148.250
 add blacknets 157.122.148.251
 add blacknets 157.122.148.255
+add blacknets 161.106.88.6
 add blacknets 161.110.13.14
 add blacknets 162.246.21.229
 add blacknets 162.248.76.153
