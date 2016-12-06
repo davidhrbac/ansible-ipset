@@ -20,6 +20,7 @@ add blacknets 104.160.176.68
 add blacknets 104.193.9.130
 add blacknets 104.193.9.151
 add blacknets 104.193.9.5
+add blacknets 104.193.9.66
 add blacknets 104.233.114.153
 add blacknets 104.233.80.78
 add blacknets 104.243.16/24
