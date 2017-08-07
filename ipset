@@ -1,5 +1,5 @@
 flush
-create blacknets hash:net family inet hashsize 4096 maxelem 1048576 
+create blacknets hash:net family inet hashsize 4096 maxelem 1048576
 add blacknets 101.180.177.45
 add blacknets 101.187.127.244
 add blacknets 101.187.165.194
@@ -46,6 +46,7 @@ add blacknets 109.109.244.146
 add blacknets 109.135.1.221
 add blacknets 109.167.202.37
 add blacknets 109.170.193.76
+add blacknets 109.230.231.8
 add blacknets 109.73.230.118
 add blacknets 109.73.235.171
 add blacknets 109.81.208.69
@@ -135,6 +136,7 @@ add blacknets 173.242.112.93
 add blacknets 173.45.111.42
 add blacknets 173.49.53.25
 add blacknets 174.137.54.66
+add blacknets 174.138.190.0/24
 add blacknets 174.48.98.140
 add blacknets 174.54.92.29
 add blacknets 174.77.191.118
@@ -351,6 +353,7 @@ add blacknets 212.85.122.43
 add blacknets 213.14.124.28
 add blacknets 213.186.183.252
 add blacknets 213.197.190.168
+add blacknets 213.202.218.0/24
 add blacknets 213.4.200.66
 add blacknets 213.73.75.243
 add blacknets 2.138.31.178
@@ -497,6 +500,8 @@ add blacknets 64.137.175.18
 add blacknets 64.137.176.248
 add blacknets 64.137.230.196
 add blacknets 64.196.161.62
+add blacknets 64.20.48.0/24
+add blacknets 64.20.49.0/24
 add blacknets 64.221.61.194
 add blacknets 64.235.39.125
 add blacknets 64.72.101.122
@@ -507,8 +512,11 @@ add blacknets 66.112.96.50
 add blacknets 66.203.162.239
 add blacknets 66.225.139.105
 add blacknets 66.23.232.227
+add blacknets 66.45.252.0/24
+add blacknets 66.45.255.0/24
 add blacknets 66.45.255.214
 add blacknets 67.102.163.44
+add blacknets 67.211.219.0/24
 add blacknets 67.224.84.250
 add blacknets 67.231.22.126
 add blacknets 67.79.217.54
@@ -611,6 +619,7 @@ add blacknets 88.247.78.4
 add blacknets 89.111.178.164
 add blacknets 89.122.29.124
 add blacknets 89.163.203.38
+add blacknets 89.163.225.142
 add blacknets 89.204.220.9
 add blacknets 89.216.21.136
 add blacknets 89.233.234.218
@@ -661,6 +670,7 @@ add blacknets 94.200.123.30
 add blacknets 94.249.60.127
 add blacknets 94.61.149.17
 add blacknets 95.110.203.208
+add blacknets 95.129.100.115
 add blacknets 95.140.32.0/24
 add blacknets 95.140.32.151
 add blacknets 95.140.32.155
